@@ -15,4 +15,4 @@ The dshboard reveals several compelling insights into loan prediction
 
 ##Dashboard 
 
-The dashboard can be found in tableau public
+The dashboard can be found in tableau public https://github.com/crispgithubs/Loan-Prediction-/blob/main/Book1.twbx
