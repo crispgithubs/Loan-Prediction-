@@ -19,4 +19,4 @@ The dashboard can be found in tableau public https://github.com/crispgithubs/Loa
 <img width="2024" height="1449" alt="Image" src="https://github.com/user-attachments/assets/7f2eaf7e-274a-4b73-ac1e-44d7608b1a9b" />
 
 ##Presentations sample 
-The presentation created for the loan prediction walks through the insights and recommendations above and be found 
+The presentation created for the loan prediction walks through the insights and recommendations above and be found https://github.com/crispgithubs/Loan-Prediction-/blob/main/Loan%20Prediction.pdf
