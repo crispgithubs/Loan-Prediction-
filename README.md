@@ -1,6 +1,6 @@
 # Loan-Prediction-
 
-The goal of this project is to investigate the loan prediction in order to surface recmmendation 
+The goal of this project is to investigate the loan prediction in order to surface recommendation 
 
 **Introduction**
 
